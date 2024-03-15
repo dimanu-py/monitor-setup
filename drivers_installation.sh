@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 paru -S -y evdi displaylink
 echo "Installed evdi and displaylink successfully"
