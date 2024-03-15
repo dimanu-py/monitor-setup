@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 main_monitor="DVI-I-2-1"
 secondary_monitor="DVI-I-3-2"
