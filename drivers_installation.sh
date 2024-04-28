@@ -21,7 +21,3 @@ Section "OutputClass"
 EndSection
 EOF
 echo "Configuration written to $file_path"
-
-xrandr --setprovideroutputsource 1 0
-xrandr --setprovideroutputsource 2 0
-echo "Set outputs source correctly" 
